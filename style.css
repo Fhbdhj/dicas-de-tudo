@@ -1,20 +1,23 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-    <head>
-        <meta charset="UTF-8">
-        <title>dicas de tudo</title>
-        <link rel="stylesheet" href="style.css">
-    </head>
+body {
+    background: #CCCCCC
+}
 
-    <body>
-        <h1 style="text-align: center">Sobre o dicas de tudo</h1>
+#banner {
+    width: 100%;
+}
 
-        <p>seja bem vindo <strong>dicas de tudo </strong> traz para a internet o que há de melhor para o seu conhecimento. 
-        Fundada em 1764, a dicas de tudo já é destaque na internet e conquista novos usuarios a cada dia.</p>
+h1 {
+    text-align: center
+}
 
-        <p style="font-size: 20px"><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos usuarios"</strong>.</em></p>
+p {
+    text-align: center;
+}
 
-        <p>Oferecemos profissionais experientes e antenados às mudanças no mundo . 
-        O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos usuarios.</p>
-    </body>
-</html>
+#missao {
+    font-size: 20px
+}
+
+em strong {
+    color: #FF0000;
+}
